@@ -1,4 +1,4 @@
-#Michael Leonard
+#
 #IT-140
 
 #Show instructions to user
